@@ -1,0 +1,36 @@
+{
+    "sync_interval": 5,
+    "inject_delay": 1.6,
+    "targets": [
+        {
+            "target": "chespirito121321",
+            "override_cps": "$600M/s",
+            "obtained": "This was obtained from Witch's Fuse",
+            "exists": "53 Exist",
+            "items": [
+                {
+                    "name": "Headless Horseman",
+                    "mutation": "Default",
+                    "traits": [],
+                    "isUnique": false,
+                    "cps": 600000000
+                }
+            ]
+        },
+        {
+            "target": "solomz90",
+            "override_cps": "$450M/s",
+            "obtained": "This was obtained from The Red Carpet",
+            "exists": "2,609 Exist",
+            "items": [
+                {
+                    "name": "Skibidi Toilet",
+                    "mutation": "Default",
+                    "traits": [],
+                    "isUnique": false,
+                    "cps": 450000000
+                }
+            ]
+        }
+    ]
+}
